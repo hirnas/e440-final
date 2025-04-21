@@ -1,0 +1,7 @@
+file tree:
+- EDA pt 1.ipynb      all initial general EDA
+- EDA pt 2.ipynb      all CESM EDA
+- CESM2 final.ipynb   all final CESM graphs
+- CM6A final.ipynb    all final CM6A graphs
+
+others: ignore
